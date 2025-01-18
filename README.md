@@ -1,23 +1,24 @@
 ﻿# DiscordGPT
 
-Integrate ChatGPT into your Discord Server.
+Bring the power of ChatGPT to your Discord server with ease.
 
 ## Features
 
-- **Self Host:** Host the bot locally or on a server with your own API keys.
-- **Customizable Prompts:** Change how the AI behaves and responds to your liking.
-- **Choose any AI model** You can choose any AI model that you would like to use.
+- **Self-Hosted:** Run the bot locally or on your server using your own API keys for full control.
+- **Customizable Prompts:** Tailor the AI’s behavior and responses to fit your needs.
+- **Flexible AI Model Selection:** Choose from any available OpenAI models, such as gpt-4 or gpt-3.5-turbo.
 
 ## Getting Started
 
-- **Download:** Grab the latest version of the app!
-- **OpenAPI Key** You can get your self an OpenAPI key here: https://platform.openai.com/docs/overview
-- **Discord Bot:** Create a Discord bot on the developer page: https://discord.com/developers/applications
-- **Change the config:** Update your config.json with the API keys, openAPI model and System Prompt to get started.
+- **Download the Bot:** Grab the latest release of DiscordGPT.
+- **Get Your OpenAI API Key:** Sign up for an API key from OpenAI.
+- **Create a Discord Bot:** Set up a bot on the Discord Developer Portal.
+- **Configure the Bot:** Edit the config.json file with your API keys, selected OpenAI model, and a custom system prompt to get started.
 
-## Config File
+## Configuration File
 
-1. discordBotToken - The Discord bot's token from the discord developer page.
-2. openAIApiKey - Your open AI key from the openai platform.
-3. openAIModel - the AI model that you would like to use (ex. gtp-4o or gpt-3.5-turbo)
-4. openAISystemPrompt - This is your input to tell the bot how to behave and respond to your users.
+The config.json file contains the following fields:
+1. discordBotToken - Your Discord bot token from the Discord Developer Portal.
+2. openAIApiKey - Your OpenAI API key obtained from the OpenAI platform.
+3. openAIModel - The AI model to use (e.g. gpt-4, gpt-3.5-turbo).
+4. openAISystemPrompt - A prompt that sets the tone and behavior of the bot’s responses.
