@@ -1,6 +1,6 @@
 ﻿# DiscordGPT
 
-Bring the power of ChatGPT to your Discord server with ease.
+integrate OpenAI into your Discord and bring the power of ChatGPT to your Discord server with ease.
 
 ## Features
 
