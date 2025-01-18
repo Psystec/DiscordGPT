@@ -11,8 +11,8 @@ Bring the power of ChatGPT to your Discord server with ease.
 ## Getting Started
 
 - **Download the Bot:** Grab the latest release of DiscordGPT.
-- **Get Your OpenAI API Key:** Sign up for an API key from OpenAI.
-- **Create a Discord Bot:** Set up a bot on the Discord Developer Portal.
+- **Get Your OpenAI API Key:** Sign up for an API key from OpenAI. (https://platform.openai.com/docs/overview)
+- **Create a Discord Bot:** Set up a bot on the Discord Developer Portal. (https://discord.com/developers/applications)
 - **Configure the Bot:** Edit the config.json file with your API keys, selected OpenAI model, and a custom system prompt to get started.
 
 ## Configuration File
